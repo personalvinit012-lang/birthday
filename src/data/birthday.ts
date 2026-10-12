@@ -1,5 +1,5 @@
 export const birthday = {
-  recipient: 'Someone Truly Special',
+  recipient: 'Aradhya',
   greeting: 'Happy Birthday',
   subtitle: 'A little world of love, memories and surprises is waiting for you…',
   letter: [
